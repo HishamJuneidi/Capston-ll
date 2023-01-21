@@ -7,6 +7,6 @@
 
 # Capston ll Weekly Updates:
 
-Week 1: Sylabus week
-Week 2: 
+- **Week 1 :** Sylabus week. Create Github and Blog page.
+- **Week 2 :**
 
