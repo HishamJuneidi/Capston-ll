@@ -5,5 +5,8 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Introduction to Capston ll
+# Capston ll Weekly Updates:
+
+Week 1: Sylabus week
+Week 2: 
 
