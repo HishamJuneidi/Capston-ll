@@ -20,6 +20,7 @@
 
   B) [Should You Mask 15% in Masked Language Modeling? ](https://arxiv.org/pdf/2202.08005.pdf) May 22, 2022 :
   Finding that 30 – 40 of [MASK]ing dataset can improve results of filling the blank/missing tokens.
+ 
   ![image](https://user-images.githubusercontent.com/33138418/217118821-d4385fac-2757-4710-8c6e-88fbde07e904.png)
 
 
