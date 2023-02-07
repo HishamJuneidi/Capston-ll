@@ -11,7 +11,7 @@
 
 - **Week 1 :** Syllabus week. Create Github and Blog page.
 - **Week 2 :** Read about publications that are realted to the missing text problem. Bellow is a summary about each paper I read:
-- RoBERTa July 26, 2019
+- A) RoBERTa July 26, 2019
   refers to a new receipt for training BERT to achieve better results, as they found that the original BERT model is significantly undertrained. The receipt contains the following learnings:
   1.	Train for longer with bigger batch size.
   2.	Remove the next sentence prediction (NSP) task.
