@@ -22,6 +22,12 @@
   Finding that 30 – 40 of [MASK]ing dataset can improve results of filling the blank/missing tokens.
  
   ![image](https://user-images.githubusercontent.com/33138418/217118821-d4385fac-2757-4710-8c6e-88fbde07e904.png)
+  
+  C) [BART](https://arxiv.org/pdf/1910.13461.pdf) Oct. 29, 2019 : 
+  It combines Bidirectional and AutoRegressive Transformer: 
+  
+  ![image](https://user-images.githubusercontent.com/33138418/217119484-0730befc-a65d-4768-b397-eda7164235ca.png)
+
 
 
 
