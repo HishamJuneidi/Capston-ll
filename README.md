@@ -34,7 +34,8 @@
 - **Week 3 :** Working on the Tiger audio calssification Moan/No Moan sound
     1. Preprocess the data and prepare the audio clip by cutting the clip to 3 sec time length
     2. Remove any noise data and convert the 3 sec clip to images as bellow:
-    ![Screen Shot 2023-02-13 at 5 54 22 PM](https://user-images.githubusercontent.com/33138418/218593404-0f94c938-f255-4f54-8f3c-81d962d31d5d.png)
+   ![SMM01167_20221109_182902_77_reduced](https://user-images.githubusercontent.com/33138418/218593596-145fa3a7-b0df-40a9-9292-d2dad27c3e38.png)
+
 
     
 
