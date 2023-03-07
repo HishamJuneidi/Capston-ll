@@ -45,8 +45,10 @@
   
 - **Week 4 :** Extend the work that had done on Tiger calls classifications to use it for Leopard Saws classifications. First step was to check small sample of of Saws vs. No Saw calls and then build 100 dataset for each class (totale 200 samples).
 
-- **Week 5 :** Working on  . 
-    
+- **Week 5 :** Training the dataset on the generated images for Saws and No Saws for 30 epoch. The images below is a sample. The blue represent a Saw and brown represent No Saw.
+ 
+    ![Screen Shot 2023-03-07 at 1 38 21 PM](https://user-images.githubusercontent.com/33138418/223519187-ae9ffb52-aa53-4762-b134-e84847f97926.png)
+
 
 
 
