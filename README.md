@@ -42,8 +42,9 @@
     ![Screen Shot 2023-02-13 at 5 54 22 PM](https://user-images.githubusercontent.com/33138418/218594086-dfe0dfe8-4657-47ff-a8c4-c504d360567a.png)
     
   [code commit](https://github.com/HishamJuneidi/Capston-ll/commit/fdad1c7b41b0ba2c14dea722fedad71552e882d8)
+- **Week 4 :** Extend the work the work had done on Tiger calls classifications to use it for Leopard Saws classifications. First set was to check small sample of of Saws vs. No Saw calls and then build 100 dataset for each calass (totale 200 samples).
 
-
+- **Week 5 :** Working on  . 
     
 
 
