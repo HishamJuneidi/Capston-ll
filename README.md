@@ -44,7 +44,7 @@
     
   [code commit week 3](https://github.com/HishamJuneidi/Capston-ll/commit/fdad1c7b41b0ba2c14dea722fedad71552e882d8)
   
-- **Week 4 :** Extend the work that had done on Tiger calls classifications to use it for Leopard Saws classifications. First step was to check small sample of of Saws vs. No Saw calls and then build 100 dataset for each class (totale 200 samples).
+- **Week 4 :** Extend the work that had been done on Tiger calls classifications to use it for Leopard Saws classifications. First step was to check small sample of of Saws vs. No Saw calls and then build 100 dataset for each class (totale 200 samples).
 
 - **Week 5 :** Training the dataset on the generated images for Saws and No Saws for 30 epoch. The images below is a sample. The blue represent a Saw and brown represent No Saw.
  
