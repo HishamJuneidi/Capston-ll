@@ -29,7 +29,8 @@
   ![image](https://user-images.githubusercontent.com/33138418/217119484-0730befc-a65d-4768-b397-eda7164235ca.png)
 
    **SUMMERY : RoBERTa is the most relevant to our goal/ filling missing text**
-   [code commit](https://github.com/HishamJuneidi/Capston-ll/commit/aab642318f31b46708fe0809b93ae6d31c7ea010)
+   
+   [code commit week 2](https://github.com/HishamJuneidi/Capston-ll/commit/aab642318f31b46708fe0809b93ae6d31c7ea010)
  
 - **Week 3 :** Working on the Tiger audio calssification Moan/No Moan sound
     1. Preprocess the data and prepare the audio clip by cutting the clip to 3 sec time length
