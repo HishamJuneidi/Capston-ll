@@ -54,6 +54,8 @@
 
 - **Week 7 :** Worded on clearing the code and making the code handle multiple audio clips at once. I created a time formate to idantify where in the audio clip did the leopard saw happen. 
 
+[code commite week 7](https://github.com/HishamJuneidi/Capston-ll/commit/1ca320bbdb7f4ebc9b44380c854f316fffe5fde7#diff-af60dcd73c8e9eab485922c6e17622fe554e7cbdbfa254c08be298709704bc93)
+
 
 
 
