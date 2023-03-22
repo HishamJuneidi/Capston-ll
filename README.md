@@ -52,7 +52,14 @@
     
     [code commite week 5](https://github.com/HishamJuneidi/Capston-ll/commit/59a72be8f68e4a5926f323b433b84d420825c214)
 
-- **Week 7 :** Worded on clearing the code and making the code handle multiple audio clips at once. I created a time formate to idantify where in the audio clip did the leopard saw happen. 
+- **Week 7 :** Worded on clearing the code and making the code handle multiple audio clips at once. I created a time formate to idantify where in the audio clip did the leopard saw happen as shown below:
+
+    SMM07257_20221118_003302_16BIT.wav
+
+    Index 164 | Audio Clip Time Interval 0:08:12
+    Index 165 | Audio Clip Time Interval 0:08:15
+    Index 234 | Audio Clip Time Interval 0:11:42
+    Index 237 | Audio Clip Time Interval 0:11:51
 
     [code commite week 7](https://github.com/HishamJuneidi/Capston-ll/commit/1ca320bbdb7f4ebc9b44380c854f316fffe5fde7#diff-af60dcd73c8e9eab485922c6e17622fe554e7cbdbfa254c08be298709704bc93)
 
