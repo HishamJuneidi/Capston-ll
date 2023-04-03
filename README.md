@@ -62,6 +62,9 @@
     Index 237 | Audio Clip Time Interval 0:11:51 
 
     [code commite week 7](https://github.com/HishamJuneidi/Capston-ll/commit/1ca320bbdb7f4ebc9b44380c854f316fffe5fde7#diff-af60dcd73c8e9eab485922c6e17622fe554e7cbdbfa254c08be298709704bc93)
+    
+- **week 8 :** This week was about implementing Saliency map to understand what the CNN see when it evaluate/classify the model. 
+Saliency maps is a technique to rank the pixels in an image based on their contribution to the final score from a Convolution Neural Network. The technique is described in great detail in this [paper](https://arxiv.org/pdf/1312.6034v2.pdf)
 
 
 
