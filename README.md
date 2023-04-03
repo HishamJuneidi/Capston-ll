@@ -66,6 +66,15 @@
 - **week 8 :** This week was about implementing Saliency map to understand what the CNN see when it evaluate/classify the model. 
 Saliency maps is a technique to rank the pixels in an image based on their contribution to the final score from a Convolution Neural Network. The technique is described in great detail in this [paper](https://arxiv.org/pdf/1312.6034v2.pdf)
 
+The figure below shows the borders were the CNN build to classify a Leopard Saw based on each pixel:
+
+![Screen Shot 2023-03-30 at 3 37 25 PM](https://user-images.githubusercontent.com/33138418/229618779-d9ae1327-0607-4ae4-b645-bafabae29fbc.png)
+
+The figure belwo shows the CNN looking to a non Leopard Saw :
+
+
+
+
 
 
 
