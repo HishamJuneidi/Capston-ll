@@ -70,7 +70,7 @@ Saliency maps is a technique to rank the pixels in an image based on their contr
 
 ![Screen Shot 2023-03-30 at 3 37 25 PM](https://user-images.githubusercontent.com/33138418/229618779-d9ae1327-0607-4ae4-b645-bafabae29fbc.png)
 
-    The figure belwo shows the CNN looking to a non Leopard Saw :
+   The figure belwo shows the CNN looking to a non Leopard Saw :
 
 ![Screen Shot 2023-04-03 at 4 31 54 PM](https://user-images.githubusercontent.com/33138418/229621114-f7e3ff5b-cacd-4f5e-9f38-d477bf2fe8b4.png) 
 
