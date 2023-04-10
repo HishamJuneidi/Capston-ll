@@ -29,8 +29,17 @@ pip uninstall tensorflow-io
 pip install tensorflow 
 pip install --no-deps tensorflow-io
 ```
+## Expectation
 
-## Capston ll Weekly Updates:
+Once the CNN is trained, the script creates two types of CSV files. First type to identify the Leopards' Saws in each interval for each audio clip. Second type is to identify the number of saws for each audio clip.
+
+## Collaborative
+
+Hisham Juneidi (CS), Hammad Mansoor(CS), Likitha Varapana(CS)
+Dr. Danushka Bandara (CS), Dr. Ashley Byun (Biology)
+
+
+## Capston ll Weekly Updates Timeline:
 
 - **Week 1 :** Syllabus week. Create Github and Blog page.
 - **Week 2 :** Read about publications that are realted to the missing text problem. Bellow is a summary about each paper I read: <br />  
