@@ -17,17 +17,17 @@ Studying Leopard vocalizations requires spending hundreds of hours to Listen and
 ## Installation
 
 ```
-!pip install h5py
-!pip install typing-extensions
-!pip install wheel
+pip install h5py
+pip install typing-extensions
+pip install wheel
 
-!pip install noisereduce
-!pip install pydub
-!pip uninstall tensorflow
-!pip uninstall tensorflow-gpu
-!pip uninstall tensorflow-io
-!pip install tensorflow 
-!pip install --no-deps tensorflow-io
+pip install noisereduce
+pip install pydub
+pip uninstall tensorflow
+pip uninstall tensorflow-gpu
+pip uninstall tensorflow-io
+pip install tensorflow 
+pip install --no-deps tensorflow-io
 ```
 
 ## Capston ll Weekly Updates:
