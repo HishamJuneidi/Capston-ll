@@ -6,6 +6,16 @@
 -->
 # Hisham Juneidi
 
+# Animal Calls detection Using Neural Network 
+
+## Motivation
+
+Studying Leopard vocalizations requires spending hundreds of hours to Listen and annotate audio calls. We created an automated vocalization detector that can extract animal calls from recordings obtained by a song meter audio recorder placed at the Connecticut Beardsley zoo’s leopard enclosure.
+
+
+
+## Installation
+
 
 ## Capston ll Weekly Updates:
 
