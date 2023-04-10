@@ -16,6 +16,9 @@ Studying Leopard vocalizations requires spending hundreds of hours to Listen and
 
 ## Installation
 
+```
+pip install foobar
+```
 
 ## Capston ll Weekly Updates:
 
