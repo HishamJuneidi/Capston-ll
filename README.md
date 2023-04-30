@@ -108,7 +108,9 @@ Saliency maps is a technique to rank the pixels in an image based on their contr
 
    [code commite week 8](https://github.com/HishamJuneidi/Capston-ll/commit/63cb7a2fd03aae870af82cdf65b274d29b23776b)
     
-   
+- **week 8 :** We found using CNN by itself is not enough and we get many classification like metal banging sound to be classified as Leopard Saw. We used a combination of CNN and Fast Fourier Transform (FFT) methods and with a threshold between 0.4 and 0.1 for FFT to give ous a much higher accuracy. The figure below shows the FFT for Saw and none Saw:
+
+![Screen Shot 2023-04-30 at 7 12 26 PM](https://user-images.githubusercontent.com/33138418/235380523-2081d35c-47c0-4afa-a04f-6bbbd056b7da.png)
 
 
 
